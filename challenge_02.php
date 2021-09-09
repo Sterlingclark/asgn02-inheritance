@@ -18,7 +18,6 @@ class Dog {
   }
 }
 
-
 class GreatDane extends Dog {
   protected $has_tail = true;
 } 
